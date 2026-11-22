@@ -1,0 +1,22 @@
+# ========question========
+# Exercise 13: Dictionary Sorting (Lambda)
+#
+# Practice Problem: Given a list of dictionaries (representing employees), sort them based on their “salary” in descending order using a lambda function.
+#
+# Given Input:
+#
+# employees = [{"name": "A", "salary": 50}, {"name": "B", "salary": 70}, {"name": "C", "salary": 60}]
+#
+# Expected Output:
+#
+# [{'name': 'B', 'salary': 70}, {'name': 'C', 'salary': 60}, {'name': 'A', 'salary': 50}]
+#
+# Source: https://pynative.com/intermediate-python-exercises/
+
+
+# ========hints========
+# Identify the value that determines the ordering before choosing a sorting key.
+
+
+# Write your code below.
+
