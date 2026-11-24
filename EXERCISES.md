@@ -1,6 +1,6 @@
 # Python practice exercises
 
-29 categories, 794 exercise files. Open a folder, then solve exercise1.py, exercise2.py, and so on.
+29 categories, 794 exercise files. Open a folder, then solve exercise001.py, exercise002.py, and so on.
 
 Each Python file contains question comments, available examples, a gentle hint, and room for your code. No solution implementations were added.
 

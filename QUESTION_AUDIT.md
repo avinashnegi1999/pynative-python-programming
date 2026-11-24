@@ -13,15 +13,15 @@ Checked on 2026-11-21 against freshly retrieved PYnative exercise-category pages
 
 ## Omissions fixed in this audit
 
-- [Basics exercise 1](01-python-basic-exercise-for-beginners/exercise1.py): restored both example input pairs and their expected outputs; fixed a stray leading dot in the question comment.
-- [Basics exercise 15](01-python-basic-exercise-for-beginners/exercise15.py): restored the actual five-row output pattern, which the old file referred to without showing.
+- [Basics exercise 1](01-python-basic-exercise-for-beginners/exercise001.py): restored both example input pairs and their expected outputs; fixed a stray leading dot in the question comment.
+- [Basics exercise 15](01-python-basic-exercise-for-beginners/exercise015.py): restored the actual five-row output pattern, which the old file referred to without showing.
 
 ## Deliberate differences from the website
 
 - The first 80 prompts use simpler wording, sometimes drawing constraints from the source explanation or examples. Their wording is not presented as an exact transcription.
 - Source exercise labels are normalised to local file order. The loop page repeats number 4; the tuple page jumps from 14 to 22. The database page mixes Exercise, Question, and Operation labels.
-- [Loop exercise 12](03-python-if-else-and-for-loop-exercise/exercise12.py) keeps the corrected consonant count of 6. The source gives 7 for the same sentence.
-- [Database exercise 5](29-python-database-programming-exercise/exercise5.py) keeps a corrected starter-function typo and explains that experience depends on the current date, rather than copying the historical example value as a permanent answer.
+- [Loop exercise 12](03-python-if-else-and-for-loop-exercise/exercise012.py) keeps the corrected consonant count of 6. The source gives 7 for the same sentence.
+- [Database exercise 5](29-python-database-programming-exercise/exercise005.py) keeps a corrected starter-function typo and explains that experience depends on the current date, rather than copying the historical example value as a permanent answer.
 - Local reference-image paths replace web image URLs where images were downloaded.
 - Website solution blocks, explanatory answer sections, and tutorial reference lists are not part of the question files. Exercise-purpose paragraphs are generally omitted.
 

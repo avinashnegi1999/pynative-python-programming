@@ -4,7 +4,7 @@
 
 Open this file in VS Code and press **Ctrl+Shift+V** for Markdown Preview. Click **Reveal hint** only when needed. Hints are visible in the raw Markdown source.
 
-Write your answers in exercise1.py, exercise2.py, etc. Your existing exercise1.py is preserved.
+Write your answers in exercise001.py, exercise002.py, etc. Your existing exercise001.py is preserved.
 
 ## Exercise 1. Arithmetic Product and Conditional Logic
 

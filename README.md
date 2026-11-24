@@ -2,7 +2,7 @@
 
 A topic-wise Python practice library: **794 exercise files across 29 folders**, based on [PYnative's Python exercises](https://pynative.com/python-exercises-with-solutions/).
 
-Each `exerciseN.py` contains the question, available input/output examples, a gentle hint, and space to write your answer. Solution implementations are not supplied.
+Each `exerciseNNN.py` contains the question, available input/output examples, a gentle hint, and space to write your answer. Solution implementations are not supplied.
 
 Folders are numbered `01` through `29` in learning order; individual topics can still contain harder questions.
 
@@ -67,7 +67,7 @@ Pick these when the topic interests you; they are separate directions you can ex
 
 ## How to use a question file
 
-1. Open a topic folder and choose an `exerciseN.py` file.
+1. Open a topic folder and choose an `exerciseNNN.py` file.
 2. Read the question and examples under `# ========question========`.
 3. Write your answer below `# Write your code below.`.
 4. Read `# ========hints========` when stuck. Hints are plain comments and remain visible.
@@ -76,7 +76,7 @@ Pick these when the topic interests you; they are separate directions you can ex
 From this repository's root in PowerShell, for example:
 
 ```powershell
-python .\python-functions-exercise\exercise1.py
+python .\04-python-functions-exercise\exercise001.py
 ```
 
 Some existing files may already contain your attempts. Keep improving those answers as you learn.
