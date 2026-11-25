@@ -14,3 +14,15 @@
 
 # Write your code below.
 
+import time
+
+count = 5
+
+while count > 0:
+    print(count)
+    # Pause the program for 1 second
+    time.sleep(1)
+    # Decrement the counter
+    count -= 1
+
+print("Blast off!")

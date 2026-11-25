@@ -14,3 +14,8 @@
 
 # Write your code below.
 
+data = "I love coding in Python"
+
+new_data = data.replace(" ", "_")
+
+print(new_data)

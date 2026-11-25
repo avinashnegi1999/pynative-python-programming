@@ -16,3 +16,12 @@
 
 # Write your code below.
 
+
+dict_square = {}
+
+for i in range(1, 11):
+    square = i * i  # value of key
+
+    dict_square[i] = square
+
+print(dict_square)

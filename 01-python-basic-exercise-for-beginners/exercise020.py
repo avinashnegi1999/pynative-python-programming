@@ -7,8 +7,8 @@
 #
 # Expected Output:
 #
-# 1  2  3  4  5  6  7  8  9  10 		
-# 2  4  6  8  10 12 14 16 18 20 		
+# 1  2  3  4  5  6  7  8  9  10
+# 2  4  6  8  10 12 14 16 18 20
 # ... (up to 10)
 
 
@@ -17,4 +17,10 @@
 
 
 # Write your code below.
+for i in range(1, 11):
+    for j in range(1, 11):
 
+        # Print product followed by a tab space
+        print(i * j, end="\t")
+
+    print("\n")

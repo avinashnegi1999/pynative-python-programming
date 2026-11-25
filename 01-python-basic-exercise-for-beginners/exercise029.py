@@ -16,3 +16,9 @@
 
 # Write your code below.
 
+words = ["Apple", "Banana", "Cherry", "Date", "Elderberry"]
+
+
+for i in words:
+    length = len(i)
+    print(i, f"- {length}", end=" ")

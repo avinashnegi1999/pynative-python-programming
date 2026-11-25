@@ -7,10 +7,10 @@
 #
 # Expected Output:
 #
-# 5 4 3 2 1 
-# 4 3 2 1 
-# 3 2 1 
-# 2 1 
+# 5 4 3 2 1
+# 4 3 2 1
+# 3 2 1
+# 2 1
 # 1
 
 
@@ -20,3 +20,13 @@
 
 # Write your code below.
 
+
+for i in range(5, 0, -1):
+    num = i
+
+    for j in range(i):
+        print(num, end=" ")
+
+        num = num - 1
+
+    print()
